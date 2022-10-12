@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1rYzMQ4mOmbErYJIKfNzhPFIq1ImvTD4m
 """
 
-pip install streamlit
+
 
 import streamlit as st
 import tweepy
