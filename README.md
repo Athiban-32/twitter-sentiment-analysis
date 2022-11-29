@@ -1,12 +1,12 @@
-### Twitter Sentiment Analysis 
+## Twitter Sentiment Analysis 
 
 ## Data Extraction and Data Preprocessing
 
 <img width="572" alt="bd1" src="https://user-images.githubusercontent.com/93418753/204482105-27dce730-ef62-4afb-96a9-67ae7c75a6d8.png">
-<img width="389" alt="bd2" src="https://user-images.githubusercontent.com/93418753/204482156-b0a75c70-341c-47a2-9361-173681153268.png">
-<img width="384" alt="bd3" src="https://user-images.githubusercontent.com/93418753/204482189-7f3c8317-e27e-4ff3-b679-87528472285a.png">
-<img width="383" alt="bd4" src="https://user-images.githubusercontent.com/93418753/204482231-e6508374-7813-4ea8-85d1-240e12b690ba.png">
-<img width="557" alt="bd5" src="https://user-images.githubusercontent.com/93418753/204482046-399048d2-e750-499c-8941-576c11ff09fe.png">
+<img width="572" alt="bd2" src="https://user-images.githubusercontent.com/93418753/204482156-b0a75c70-341c-47a2-9361-173681153268.png">
+<img width="572" alt="bd3" src="https://user-images.githubusercontent.com/93418753/204482189-7f3c8317-e27e-4ff3-b679-87528472285a.png">
+<img width="572" alt="bd4" src="https://user-images.githubusercontent.com/93418753/204482231-e6508374-7813-4ea8-85d1-240e12b690ba.png">
+<img width="572" alt="bd5" src="https://user-images.githubusercontent.com/93418753/204482046-399048d2-e750-499c-8941-576c11ff09fe.png">
 
 ## Word Count
 
