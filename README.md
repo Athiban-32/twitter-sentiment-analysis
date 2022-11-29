@@ -1,6 +1,6 @@
 ## Twitter Sentiment Analysis 
 
-## This Project is based on the IEEE Transaction Paper on the Topic Sentiment_Analysis_of_Lockdown_in_India_During_COVID-19_A_Case_Study_on_Twitter
+## This Project is based on the IEEE Transaction Paper on the Topic Sentiment Analysis of Lockdown in India During COVID-19:A Case Study on Twitter
 [Sentiment_Analysis_of_Lockdown_in_India_During_COVID-19_A_Case_Study_on_Twitter (1).pdf](https://github.com/Athiban-32/twitter-sentiment-analysis/files/10111372/Sentiment_Analysis_of_Lockdown_in_India_During_COVID-19_A_Case_Study_on_Twitter.1.pdf)
 
 
