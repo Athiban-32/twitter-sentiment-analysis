@@ -1,7 +1,4 @@
-# twitter-sentiment-analysis
 ### Twitter Sentiment Analysis 
-
-
 
 ## Data Extraction and Data Preprocessing
 
@@ -36,9 +33,10 @@
 ![BernoulliNB](https://user-images.githubusercontent.com/93418753/204481835-5c18dae3-3997-46a7-8f5c-54e8c5ac4c32.png)
 
 
+## Data Visualization
 
-
-
+![bd10](https://user-images.githubusercontent.com/93418753/204483162-0b917227-1346-4975-9ad4-3e5729efad92.png)
+![bd11](https://user-images.githubusercontent.com/93418753/204483197-65f52283-6c07-474b-8e05-ef1525a000c3.png)
 
 
 ### This Project is based on the IEEE Transaction Paper on the Topic Sentiment_Analysis_of_Lockdown_in_India_During_COVID-19_A_Case_Study_on_Twitter
