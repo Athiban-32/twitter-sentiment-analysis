@@ -20,7 +20,7 @@
 
 ![bd7](https://user-images.githubusercontent.com/93418753/204482493-6077763d-97db-4a88-b459-33cd0138c972.png)
 
-## Unigram and Bigram Analysis
+## Bigram and Trigram Analysis
 ![bd8](https://user-images.githubusercontent.com/93418753/204482594-bd720ba3-e161-4a16-8579-dff52be7ec23.png)
 ![bd9](https://user-images.githubusercontent.com/93418753/204482631-15d8ec7d-d630-479d-b0d5-3e6dad898703.png)
 
